@@ -1,4 +1,6 @@
-
+Procfile and requirements.txt required for heroku deployment
+deploy.sh simple script to speed up uploading of files
+wealth_stalker.py main logic driver for the webapp
 
 OUTPUT from algorithm:
 
