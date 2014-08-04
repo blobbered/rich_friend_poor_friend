@@ -1,0 +1,1 @@
+web: gunicorn wealth_stalker:app --log-file=-

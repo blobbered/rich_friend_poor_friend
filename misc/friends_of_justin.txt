@@ -1,0 +1,1894 @@
+
+user data: {'title': u'Armour Training Institute Headquarters', 'name': u'Isaac Lee', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (46044, 68100), 'samples': 2, 'mean': 57072}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34284, 62928), 'samples': 2, 'mean': 48612}
+mean salary of company: 39892
+your friend is probably poor
+
+user data: {'title': u'Armour Training Institute Headquarters', 'name': u'Mee Mee Chan', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (46080, 68100), 'samples': 2, 'mean': 57084}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34500, 62940), 'samples': 2, 'mean': 48720}
+mean salary of company: 39932
+your friend is probably poor
+
+user data: {'title': u'Janitor', 'name': u'Marco Lau', 'employer': u'My Life'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Jon Preddy', 'employer': u'Seeds of Peace'}
+role: {'position': u'Development Associate', 'range': (33000, 36000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Jiyoung Song', 'employer': u'English At Large'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Tony Chan', 'employer': u'English At Large'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Ziyuan Liu', 'employer': u'Siemens PLM Software'}
+role: {'position': u'Software Engineer', 'range': (53000, 90000), 'samples': 64, 'mean': 71543}
+role: {'position': u'Software Engineer Advanced', 'range': (75000, 99000), 'samples': 29, 'mean': 83462}
+role: {'position': u'Implementation Engineer II', 'range': (71000, 97000), 'samples': 28, 'mean': 85641}
+mean salary of company: 80215
+your friend is probably doing okay
+
+user data: {'title': u'Programming Team Member', 'name': u'Andrew Harn (Zyflair Griffane)', 'employer': u'University of Central Florida'}
+role: {'position': u'Assistant Professor', 'range': (47000, 150000), 'samples': 93, 'mean': 75743}
+role: {'position': u'Post Doctoral Associate', 'range': (33000, 65000), 'samples': 39, 'mean': 41743}
+role: {'position': u'Research Associate', 'range': (28000, 76000), 'samples': 36, 'mean': 42924}
+mean salary of company: 53470
+your friend is probably doing okay
+
+user data: {'title': u'Programming Team Member', 'name': u'Jae Heon Lee', 'employer': u'University of Central Florida'}
+role: {'position': u'Assistant Professor', 'range': (47000, 150000), 'samples': 93, 'mean': 75743}
+role: {'position': u'Post Doctoral Associate', 'range': (33000, 65000), 'samples': 39, 'mean': 41743}
+role: {'position': u'Research Associate', 'range': (28000, 76000), 'samples': 36, 'mean': 42924}
+mean salary of company: 53470
+your friend is probably doing okay
+
+user data: {'title': u'Founder/Visual Storyteller', 'name': u'Joshua Chan', 'employer': u'Joshua Chan Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied Major in Marketing & Communication (Mass Comm)', 'name': u'Catherine Chan', 'employer': u'UCSI University'}
+role: {'position': u'Petroleum Engineer Intern - Monthly', 'range': (1908000, 2089000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Camp Counselor', 'name': u'Aki Bowers', 'employer': u'ASIJ'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Neuroscience', 'name': u'Yoon Kim', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Caroline Chin', 'employer': u'Harvard University and Massachusetts Institute of Technology (MIT)'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern/Lab Assistant', 'name': u'Ryan Amos', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Justine Lee (\u53e1\u53e1)', 'employer': u'the Madden Lab at Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Alina Luk (\u9678\u5b89\u7433)', 'employer': u'Stanford University'}
+role: {'position': u'Postdoctoral Scholar', 'range': (38000, 76000), 'samples': 483, 'mean': 48276}
+role: {'position': u'Basic Life Science Research Associate', 'range': (44000, 92000), 'samples': 287, 'mean': 61503}
+role: {'position': u'Postdoctoral Research Affiliate', 'range': (41000, 75000), 'samples': 168, 'mean': 50041}
+mean salary of company: 53273
+your friend is probably doing okay
+
+user data: {'title': u'PM Intern', 'name': u'Stephen Suen (\u5b6b\u5b50\u8ed2)', 'employer': u'Microsoft, Host at WMBR 88.1FM and Online Media Editor at The Tech'}
+not enough data is available on your friend
+
+user data: {'title': u'Research Assistant', 'name': u'Mulin Xiong', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Research Assistant', 'name': u'Natasha Chak (Nash)', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Nico Vallone', 'employer': u'The Scout Association of Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Student', 'name': u'Dari Seo', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Felicia Jia', 'employer': u'Seeds of Peace'}
+role: {'position': u'Development Associate', 'range': (34000, 37000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Clarissa Li', 'employer': u'Seeds of Peace'}
+role: {'position': u'Development Associate', 'range': (33000, 36000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Computer Science', 'name': u'Ethan Yu', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Computer Science', 'name': u'Jonathan Law', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Computer Science', 'name': u'Saisi Peter', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Computer Science', 'name': u'Timothy Toh (\u675c\u5143\u5cf0)', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Lucas Sin', 'employer': u'\u83ca\u4e43\u4e95\u672c\u5e97 and Fortnight, Kitchen Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Kevin Tong', 'employer': u'\u83ca\u4e43\u4e95\u672c\u5e97 and Fortnight, Kitchen Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Nina Stender (\u6613\u66c9\u6b61)', 'employer': u'\u83ca\u4e43\u4e95\u672c\u5e97 and Fortnight, Kitchen Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Lusha Z', 'employer': u'\u83ca\u4e43\u4e95\u672c\u5e97 and Fortnight, Kitchen Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Michelle Li', 'employer': u'\u83ca\u4e43\u4e95\u672c\u5e97 and Fortnight, Kitchen Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Kevin Guh', 'employer': u'\u83ca\u4e43\u4e95\u672c\u5e97 and Fortnight, Kitchen Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Treasurer', 'name': u'Eleanor Wong', 'employer': u'UCL Climbing - UCLU Mountaineering Club and Volunteer at \u57fa\u7763\u6559\u806f\u5408\u91ab\u9662'}
+not enough data is available on your friend
+
+user data: {'title': u'Male Nurse', 'name': u'Jun Miyama', 'employer': u'New Waffle Store'}
+not enough data is available on your friend
+
+user data: {'title': u'Internship', 'name': u'Malika Khurana', 'employer': u'Fathom Information Design'}
+not enough data is available on your friend
+
+user data: {'title': u'Internship', 'name': u'Claron Niu', 'employer': u'Fathom Information Design'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Lucas Tse (\u8b1d\u6649\u8ed2)', 'employer': u'Deep Springs College'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Emily Tsui (\u5f90\u827e\u4f73)', 'employer': u'UCL'}
+not enough data is available on your friend
+
+user data: {'title': u'Research Intern', 'name': u'Janice Yip', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Dan Fang', 'employer': u'U.S. Environmental Protection Agency'}
+role: {'position': u'Environmental Protection Specialist', 'range': (45000, 155000), 'samples': 19, 'mean': 95960}
+role: {'position': u'Environmental Engineer', 'range': (58000, 105000), 'samples': 15, 'mean': 85443}
+role: {'position': u'Intern Intern - Hourly', 'range': (10000, 15000), 'samples': 12, 'mean': 1356}
+mean salary of company: 60919
+your friend is probably doing okay
+
+user data: {'title': u'Intern', 'name': u'Bonita Chen', 'employer': u'U.S. Environmental Protection Agency'}
+role: {'position': u'Environmental Protection Specialist', 'range': (45000, 155000), 'samples': 19, 'mean': 95960}
+role: {'position': u'Environmental Engineer', 'range': (58000, 105000), 'samples': 15, 'mean': 85443}
+role: {'position': u'Intern Intern - Hourly', 'range': (10000, 15000), 'samples': 12, 'mean': 1356}
+mean salary of company: 60919
+your friend is probably doing okay
+
+user data: {'title': u'Intern', 'name': u'Eugene Zheng', 'employer': u'U.S. Environmental Protection Agency'}
+role: {'position': u'Environmental Protection Specialist', 'range': (45000, 155000), 'samples': 19, 'mean': 95960}
+role: {'position': u'Environmental Engineer', 'range': (58000, 105000), 'samples': 15, 'mean': 85443}
+role: {'position': u'Intern Intern - Hourly', 'range': (10000, 15000), 'samples': 12, 'mean': 1356}
+mean salary of company: 60919
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Danny Wong', 'employer': u'Daybreak: Asia'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Carrie Chen', 'employer': u'Daybreak: Asia'}
+not enough data is available on your friend
+
+user data: {'title': u'Software Applications Engineering Intern', 'name': u'Jordan Kunzika', 'employer': u'Intel'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Aspen Wang', 'employer': u'Princeton University'}
+role: {'position': u'Postdoctoral Research Associate', 'range': (39000, 69000), 'samples': 209, 'mean': 49402}
+role: {'position': u'Assistant Professor', 'range': (75000, 153000), 'samples': 89, 'mean': 97811}
+role: {'position': u'Associate Research Scholar', 'range': (43000, 102000), 'samples': 57, 'mean': 63803}
+mean salary of company: 70338
+your friend is probably doing okay
+
+user data: {'title': u'Developer', 'name': u'Tristan Chu (\ud2b8\ub9ac\uc2a4\ud0c4)', 'employer': u'VTech Toys'}
+not enough data is available on your friend
+
+user data: {'title': u'Summer Intern', 'name': u'Leonard Bacon-Shone (Leo)', 'employer': u'Technology Crime Division, Hong Kong Police'}
+not enough data is available on your friend
+
+user data: {'title': u'Winter Analyst', 'name': u'James Chu (\ucd94\uac74\ud638)', 'employer': u'Hypatia Capital'}
+not enough data is available on your friend
+
+user data: {'title': u'Winter Analyst', 'name': u'William Park', 'employer': u'Hypatia Capital'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Benny Ip', 'employer': u'\u5927\u962a\u5927\u5b66'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Software Development Engineer Intern', 'name': u'Yinan Zhang (Ian Zhang)', 'employer': u'Microsoft'}
+role: {'position': u'Software Development Engineer In Test (SDET)', 'range': (71000, 122000), 'samples': 7762, 'mean': 88133}
+role: {'position': u'Software Development Engineer', 'range': (70000, 140000), 'samples': 6672, 'mean': 94261}
+role: {'position': u'Program Manager', 'range': (70000, 150000), 'samples': 2086, 'mean': 95225}
+mean salary of company: 92539
+your friend is probably doing okay
+
+user data: {'title': u'Former Software Development Engineer Intern', 'name': u'Jonathan Lu', 'employer': u'Microsoft'}
+role: {'position': u'Software Development Engineer In Test (SDET)', 'range': (71000, 122000), 'samples': 7762, 'mean': 88133}
+role: {'position': u'Software Development Engineer', 'range': (70000, 140000), 'samples': 6672, 'mean': 94261}
+role: {'position': u'Program Manager', 'range': (70000, 150000), 'samples': 2086, 'mean': 95225}
+mean salary of company: 92539
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Emily Lacroix', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Research Assistant', 'name': u'Jojo Boateng (Inventor)', 'employer': u'Dartmouth Robotics Lab and Teaching Assistant at Thayer School Machine Shop'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Model', 'name': u'Emily Chan', 'employer': u'Abercrombie & Fitch'}
+role: {'position': u'Assistant Store Manager', 'range': (24000, 36000), 'samples': 320, 'mean': 29538}
+role: {'position': u'Store Manager', 'range': (25000, 48000), 'samples': 296, 'mean': 36403}
+role: {'position': u'Sales Associate - Hourly', 'range': (6000, 12000), 'samples': 149, 'mean': 793}
+mean salary of company: 22244
+your friend is probably poor
+
+user data: {'title': u'Student', 'name': u'Tom Hao Chang', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Studies Finance', 'name': u'Resa Ng', 'employer': u'New York University Stern School of Business'}
+not enough data is available on your friend
+
+user data: {'title': u'Assistant Manager', 'name': u'Adrian Wan', 'employer': u'Swarthmore College Volleyball, Algorithm Design Intern at Nest and Undergraduate Research Assistant at Swarthmore Spheromak Experiment - SSX'}
+not enough data is available on your friend
+
+user data: {'title': u'Avionics Intern', 'name': u'Benjamin Chasnov', 'employer': u'SpaceX and Robotics Researcher at Harvey Mudd College'}
+not enough data is available on your friend
+
+user data: {'title': u'Avionics Intern', 'name': u'Daniel Zhao', 'employer': u'SpaceX and Robotics Researcher at Harvey Mudd College'}
+not enough data is available on your friend
+
+user data: {'title': u'Avionics Intern', 'name': u'Stef So', 'employer': u'SpaceX and Robotics Researcher at Harvey Mudd College'}
+not enough data is available on your friend
+
+user data: {'title': u'Avionics Intern', 'name': u'Rachel Lee', 'employer': u'SpaceX and Robotics Researcher at Harvey Mudd College'}
+not enough data is available on your friend
+
+user data: {'title': u'Future Intern', 'name': u'Isaac Dunlap (\u9127\u6137\u980c)', 'employer': u'Sparx'}
+role: {'position': u'Training Assistant - Monthly', 'range': (2077000, 20836000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Program Manager Intern', 'name': u'Meet Bhagdev (Mishal Bhagdev)', 'employer': u'Microsoft'}
+role: {'position': u'Software Development Engineer In Test (SDET)', 'range': (71000, 122000), 'samples': 7762, 'mean': 88133}
+role: {'position': u'Software Development Engineer', 'range': (70000, 140000), 'samples': 6672, 'mean': 94261}
+role: {'position': u'Program Manager', 'range': (70000, 150000), 'samples': 2086, 'mean': 95225}
+mean salary of company: 92539
+your friend is probably doing okay
+
+user data: {'title': u'Program Manager Intern', 'name': u'John Zahka', 'employer': u'Microsoft'}
+role: {'position': u'Software Development Engineer In Test (SDET)', 'range': (71000, 122000), 'samples': 7762, 'mean': 88133}
+role: {'position': u'Software Development Engineer', 'range': (70000, 140000), 'samples': 6672, 'mean': 94261}
+role: {'position': u'Program Manager', 'range': (70000, 150000), 'samples': 2086, 'mean': 95225}
+mean salary of company: 92539
+your friend is probably doing okay
+
+user data: {'title': u'Professional Devlopment Committee', 'name': u'Hoi Ning Liu', 'employer': u'Berkeley PBL and International Student Mentor at Berkeley International Office'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Danielle Lay', 'employer': u'The Economist'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Angela Pan', 'employer': u'Financial Times and The Daily Pennsylvanian'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Talia Stender', 'employer': u'Financial Times and The Daily Pennsylvanian'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Rebecca Lau', 'employer': u'ThoughtWorks Inc.'}
+role: {'position': u'Applications Developer', 'range': (54000, 135000), 'samples': 342, 'mean': 88397}
+role: {'position': u'Business Analyst', 'range': (53000, 127000), 'samples': 73, 'mean': 84739}
+role: {'position': u'Quality Assurance Analyst', 'range': (53000, 110000), 'samples': 49, 'mean': 82240}
+mean salary of company: 85125
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Yixia Xu', 'employer': u'ThoughtWorks Inc.'}
+role: {'position': u'Applications Developer', 'range': (54000, 135000), 'samples': 342, 'mean': 88397}
+role: {'position': u'Business Analyst', 'range': (53000, 127000), 'samples': 73, 'mean': 84739}
+role: {'position': u'Quality Assurance Analyst', 'range': (53000, 110000), 'samples': 49, 'mean': 82240}
+mean salary of company: 85125
+your friend is probably doing okay
+
+user data: {'title': u'Former none', 'name': u'Shun Miyama', 'employer': u'None'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Matthew Lu', 'employer': u'Skadden, Arps, Slate, Meagher & Flom LLP'}
+role: {'position': u'Attorney', 'range': (160000, 280000), 'samples': 203, 'mean': 209667}
+role: {'position': u'Associate', 'range': (160000, 280000), 'samples': 52, 'mean': 185142}
+role: {'position': u'Senior Law Clerk', 'range': (160000, 210000), 'samples': 45, 'mean': 167000}
+mean salary of company: 187269
+your friend is probably doing okay
+
+user data: {'title': u'Marketing Associate Intern', 'name': u'Justin Chan', 'employer': u'Teespring, Marketing Associate Intern at Setmeup and Intern at VA Palo Alto Health Care System'}
+not enough data is available on your friend
+
+user data: {'title': u'Marketing Associate Intern', 'name': u'Yoon Ji Kim', 'employer': u'Teespring, Marketing Associate Intern at Setmeup and Intern at VA Palo Alto Health Care System'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Volunteer', 'name': u'Irene Li', 'employer': u'RNLI Lifeguards'}
+not enough data is available on your friend
+
+user data: {'title': u'Former President', 'name': u'Paul Chong (\uc7ac\uc601)', 'employer': u'Tennessee Junior Classical League'}
+not enough data is available on your friend
+
+user data: {'title': u'Former President', 'name': u'Laura Wong', 'employer': u'Tennessee Junior Classical League'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Sarah Yeung', 'employer': u'The University Of Hong Kong (HKU)'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Senior Counselor', 'name': u'Robert Lee', 'employer': u'Eastern U.S. Music Camp'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Fractal Panda', 'employer': u'Microsoft'}
+role: {'position': u'Software Development Engineer In Test (SDET)', 'range': (71000, 122000), 'samples': 7762, 'mean': 88133}
+role: {'position': u'Software Development Engineer', 'range': (70000, 140000), 'samples': 6672, 'mean': 94261}
+role: {'position': u'Program Manager', 'range': (70000, 150000), 'samples': 2086, 'mean': 95225}
+mean salary of company: 92539
+your friend is probably doing okay
+
+user data: {'title': u'Former English Teacher', 'name': u'Sabrina Hoong', 'employer': u'Summerbridge Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Former English Teacher', 'name': u'Tiffany Wong', 'employer': u'Summerbridge Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Caitlin Lu', 'employer': u'Stanford University'}
+role: {'position': u'Postdoctoral Scholar', 'range': (38000, 76000), 'samples': 483, 'mean': 48276}
+role: {'position': u'Basic Life Science Research Associate', 'range': (44000, 92000), 'samples': 287, 'mean': 61503}
+role: {'position': u'Postdoctoral Research Affiliate', 'range': (41000, 75000), 'samples': 168, 'mean': 50041}
+mean salary of company: 53273
+your friend is probably doing okay
+
+user data: {'title': u'Studies', 'name': u'Daniel Boey', 'employer': u'Stanford University'}
+role: {'position': u'Postdoctoral Scholar', 'range': (38000, 76000), 'samples': 483, 'mean': 48276}
+role: {'position': u'Basic Life Science Research Associate', 'range': (44000, 92000), 'samples': 287, 'mean': 61503}
+role: {'position': u'Postdoctoral Research Affiliate', 'range': (41000, 75000), 'samples': 168, 'mean': 50041}
+mean salary of company: 53273
+your friend is probably doing okay
+
+user data: {'title': u'Studies', 'name': u'Jesamine Dyus', 'employer': u'Stanford University'}
+role: {'position': u'Postdoctoral Scholar', 'range': (38000, 76000), 'samples': 483, 'mean': 48276}
+role: {'position': u'Basic Life Science Research Associate', 'range': (44000, 92000), 'samples': 287, 'mean': 61503}
+role: {'position': u'Postdoctoral Research Affiliate', 'range': (41000, 75000), 'samples': 168, 'mean': 50041}
+mean salary of company: 53273
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Bingyue Wang', 'employer': u"Raffles Girls' School"}
+not enough data is available on your friend
+
+user data: {'title': u'Editorial Intern', 'name': u'Yoon-Ji Han', 'employer': u'Crave Magazine: Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Editorial Intern', 'name': u'Denise Dee Chan', 'employer': u'Crave Magazine: Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Editorial Intern', 'name': u'Denise Wong', 'employer': u'Crave Magazine: Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Editorial Intern', 'name': u'Beatrice Chia (Beat)', 'employer': u'Crave Magazine: Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Editorial Intern', 'name': u'Beatrice Chia (Beat)', 'employer': u'Crave Magazine: Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Keith Ching', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (45900, 68256), 'samples': 2, 'mean': 57072}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34872, 62700), 'samples': 2, 'mean': 48780}
+mean salary of company: 39948
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Ian Cheung', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (45972, 68484), 'samples': 2, 'mean': 57228}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34716, 61920), 'samples': 2, 'mean': 48324}
+mean salary of company: 39848
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Christina Wu Ky', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (46344, 68436), 'samples': 2, 'mean': 57396}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34776, 62940), 'samples': 2, 'mean': 48852}
+mean salary of company: 40080
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Michael Li', 'employer': u'Washington Student Math Association (WSMA)'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Joshua Phua', 'employer': u'Washington Student Math Association (WSMA)'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Eunice Leung', 'employer': u'Washington Student Math Association (WSMA)'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Sarah Pemberton (\u5f6d\u96ea)', 'employer': u'Washington Student Math Association (WSMA)'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Max Dengyang Liu (\u5289\u9127\u63da)', 'employer': u'Rockefeller Center for Public Policy at Dartmouth'}
+not enough data is available on your friend
+
+user data: {'title': u'Co-Founder, Developer, ux designer', 'name': u'Richard Kim (Choong-Won)', 'employer': u'WeParty'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Specialist Cadet Trainee', 'name': u'Jerald Lim', 'employer': u'Specialist Cadet School (SCS)'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Economics and Japanese', 'name': u'Tangent Cheng (\u30bf\u30f3\u30b8\u30a7\u30f3\u30c8\u30fb\u30c1\u30a7\u30f3)', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Internship', 'name': u'Yuhang Chen (\u9648\u715c\u822a)', 'employer': u'Huawei Technologies Co., Ltd'}
+role: {'position': u'Senior Software Engineer', 'range': (209540000, 20912000), 'samples': 76, 'mean': 209778026}
+role: {'position': u'Software Engineer', 'range': (209320000, 209700000), 'samples': 74, 'mean': 209514555}
+role: {'position': u'Technical Project Lead', 'range': (209800000, 20915000), 'samples': 19, 'mean': 209113}
+mean salary of company: 139833898
+your friend is probably rich
+
+user data: {'title': u'Former Internship', 'name': u'Yoon-Ah Han', 'employer': u'Huawei Technologies Co., Ltd'}
+role: {'position': u'Senior Software Engineer', 'range': (209540000, 20912000), 'samples': 76, 'mean': 209778026}
+role: {'position': u'Software Engineer', 'range': (209320000, 209700000), 'samples': 74, 'mean': 209514555}
+role: {'position': u'Technical Project Lead', 'range': (209800000, 20915000), 'samples': 19, 'mean': 209113}
+mean salary of company: 139833898
+your friend is probably rich
+
+user data: {'title': u'Former Research Intern', 'name': u'William Paja', 'employer': u'Brain Research Institute at UCLA'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern Teacher', 'name': u'Clare Pemberton (\u5f6d\u5be7)', 'employer': u'Tutor Time'}
+role: {'position': u'Lead Teacher - Hourly', 'range': (8000, 12000), 'samples': 9, 'mean': 1051}
+role: {'position': u'Assistant Teacher - Hourly', 'range': (8000, 11000), 'samples': 6, 'mean': 946}
+role: {'position': u'Teacher - Hourly', 'range': (9000, 12000), 'samples': 3, 'mean': 1007}
+mean salary of company: 1001
+your friend is probably poor
+
+user data: {'title': u'Software Development - Intern', 'name': u'Hongyu Chen', 'employer': u'Epic Systems, Software Engineering Intern at IXL and Computer Scientist at National Institutes of Health (NIH)'}
+not enough data is available on your friend
+
+user data: {'title': u'Software Development - Intern', 'name': u'Mir Faiyaz', 'employer': u'Epic Systems, Software Engineering Intern at IXL and Computer Scientist at National Institutes of Health (NIH)'}
+not enough data is available on your friend
+
+user data: {'title': u'Software Development - Intern', 'name': u'John Guo (\u90ed\u601d\u9060)', 'employer': u'Epic Systems, Software Engineering Intern at IXL and Computer Scientist at National Institutes of Health (NIH)'}
+not enough data is available on your friend
+
+user data: {'title': u'Software Development - Intern', 'name': u'Darren R. Tong', 'employer': u'Epic Systems, Software Engineering Intern at IXL and Computer Scientist at National Institutes of Health (NIH)'}
+not enough data is available on your friend
+
+user data: {'title': u'Software Development - Intern', 'name': u'Steven Wong', 'employer': u'Epic Systems, Software Engineering Intern at IXL and Computer Scientist at National Institutes of Health (NIH)'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Nicky Lam', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Joshua Wan', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Erika Pheby (\u60e0\u7406\u9999)', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Charis Kong', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Business Analytics Intern', 'name': u'Mehdi Oulmakki', 'employer': u'IBM Johannesburg and Research Assistant at Dartmouth College, Department of Physics and Astronomy'}
+not enough data is available on your friend
+
+user data: {'title': u'Business Analytics Intern', 'name': u'Kevin Zhang', 'employer': u'IBM Johannesburg and Research Assistant at Dartmouth College, Department of Physics and Astronomy'}
+not enough data is available on your friend
+
+user data: {'title': u'Business Analytics Intern', 'name': u'George Ho', 'employer': u'IBM Johannesburg and Research Assistant at Dartmouth College, Department of Physics and Astronomy'}
+not enough data is available on your friend
+
+user data: {'title': u'Business Analytics Intern', 'name': u'Katherine Pemberton', 'employer': u'IBM Johannesburg and Research Assistant at Dartmouth College, Department of Physics and Astronomy'}
+not enough data is available on your friend
+
+user data: {'title': u'Business Analytics Intern', 'name': u'Meagan Tsaw (\u66f9\u654f\u6f54)', 'employer': u'IBM Johannesburg and Research Assistant at Dartmouth College, Department of Physics and Astronomy'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Joyce Au', 'employer': u'Emory University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (30000, 57000), 'samples': 398, 'mean': 39600}
+role: {'position': u'Post Doctoral Fellow', 'range': (35000, 53000), 'samples': 189, 'mean': 40524}
+role: {'position': u'Research Associate', 'range': (20000, 70000), 'samples': 88, 'mean': 44545}
+mean salary of company: 41556
+your friend is probably poor
+
+user data: {'title': u'Former Sandwich Artist', 'name': u'Ross M. Adcock', 'employer': u'Subway'}
+role: {'position': u'Sandwich Artist - Hourly', 'range': (6000, 10000), 'samples': 239, 'mean': 780}
+role: {'position': u'Subway Sandwich Artist - Hourly', 'range': (7000, 11000), 'samples': 158, 'mean': 806}
+role: {'position': u'Shift Manager - Hourly', 'range': (7000, 13000), 'samples': 45, 'mean': 885}
+mean salary of company: 823
+your friend is probably poor
+
+user data: {'title': u'Former Sandwich Artist', 'name': u'Kimberly Chan', 'employer': u'Subway'}
+role: {'position': u'Sandwich Artist - Hourly', 'range': (6000, 10000), 'samples': 239, 'mean': 780}
+role: {'position': u'Subway Sandwich Artist - Hourly', 'range': (7000, 11000), 'samples': 158, 'mean': 806}
+role: {'position': u'Shift Manager - Hourly', 'range': (7000, 13000), 'samples': 45, 'mean': 885}
+mean salary of company: 823
+your friend is probably poor
+
+user data: {'title': u'Former Sandwich Artist', 'name': u'John Jun Ho Lee', 'employer': u'Subway'}
+role: {'position': u'Sandwich Artist - Hourly', 'range': (6000, 10000), 'samples': 239, 'mean': 780}
+role: {'position': u'Subway Sandwich Artist - Hourly', 'range': (7000, 11000), 'samples': 158, 'mean': 806}
+role: {'position': u'Shift Manager - Hourly', 'range': (7000, 13000), 'samples': 45, 'mean': 885}
+mean salary of company: 823
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Calvin Chan (\u9673\u5f65\u7dad)', 'employer': u'Winchester College'}
+role: {'position': u'Junior Fellow', 'range': (19000, 21000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Han Ji', 'employer': u'Winchester College'}
+role: {'position': u'Junior Fellow', 'range': (19000, 21000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'James Tsui', 'employer': u'Winchester College'}
+role: {'position': u'Junior Fellow', 'range': (19000, 21000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'James Tsui', 'employer': u'Winchester College'}
+role: {'position': u'Junior Fellow', 'range': (19000, 21000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Amanda Li', 'employer': u'Winchester College'}
+role: {'position': u'Junior Fellow', 'range': (19000, 21000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Philosophy and Economics', 'name': u'Joanna Fu', 'employer': u'Columbia University'}
+role: {'position': u'Postdoctoral Research Scientist', 'range': (34000, 72000), 'samples': 319, 'mean': 43263}
+role: {'position': u'Associate Research Scientist', 'range': (40000, 75000), 'samples': 172, 'mean': 54333}
+role: {'position': u'Assistant Professor', 'range': (55000, 209000), 'samples': 131, 'mean': 101459}
+mean salary of company: 66351
+your friend is probably doing okay
+
+user data: {'title': u'Studies Philosophy and Economics', 'name': u'Jenny Zhang (Jingyi)', 'employer': u'Columbia University'}
+role: {'position': u'Postdoctoral Research Scientist', 'range': (34000, 72000), 'samples': 319, 'mean': 43263}
+role: {'position': u'Associate Research Scientist', 'range': (40000, 75000), 'samples': 172, 'mean': 54333}
+role: {'position': u'Assistant Professor', 'range': (55000, 209000), 'samples': 131, 'mean': 101459}
+mean salary of company: 66351
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Sean Tan', 'employer': u'Singapore Armed Force'}
+not enough data is available on your friend
+
+user data: {'title': u'Professor', 'name': u'Chien He (\u9ec3\u8b19\u548c)', 'employer': u'Swarthmore College'}
+role: {'position': u'Assistant Professor', 'range': (69000, 82000), 'samples': 5, 'mean': 72300}
+role: {'position': u'Visiting Assistant Professor', 'range': (65000, 65000), 'samples': 3, 'mean': 65000}
+role: {'position': u'Assistant Professor, Chinese', 'range': (65000, 65000), 'samples': 3, 'mean': 65000}
+mean salary of company: 67433
+your friend is probably doing okay
+
+user data: {'title': u'Professor', 'name': u'Jonathan Chan', 'employer': u'Swarthmore College'}
+role: {'position': u'Assistant Professor', 'range': (69000, 82000), 'samples': 5, 'mean': 72300}
+role: {'position': u'Visiting Assistant Professor', 'range': (65000, 65000), 'samples': 3, 'mean': 65000}
+role: {'position': u'Assistant Professor, Chinese', 'range': (65000, 65000), 'samples': 3, 'mean': 65000}
+mean salary of company: 67433
+your friend is probably doing okay
+
+user data: {'title': u'Student Assistant', 'name': u'Brian Liu (\u5289\u5c1a\u5091)', 'employer': u"St. John's College Admissions Office"}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Lewis Ho', 'employer': u'Deep Springs University'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied International Relations', 'name': u'Joey Koo (Joseph Koo)', 'employer': u'University of California, Davis'}
+not enough data is available on your friend
+
+user data: {'title': u'Design Engineer', 'name': u'Athidej Phaksang (\u0e2d\u0e18\u0e34\u0e40\u0e14\u0e0a \u0e1f\u0e31\u0e01\u0e2a\u0e31\u0e07\u0e02\u0e4c)', 'employer': u'\u6771\u829d'}
+not enough data is available on your friend
+
+user data: {'title': u'Design Engineer', 'name': u'Charmaine Yau', 'employer': u'\u6771\u829d'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Nick Ong (Prick Dong)', 'employer': u'Tonbridge School'}
+not enough data is available on your friend
+
+user data: {'title': u'Former External Vice-Chairperson', 'name': u'Cecily Cheng', 'employer': u'Biomedical Sciences Society, MS, HKUSU \u9999\u6e2f\u5927\u5b78\u5b78\u751f\u6703\u91ab\u5b78\u6703\u751f\u7269\u91ab\u5b78\u5b78\u6703'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Management Trainee and Salary Project', 'name': u'Bence Varro (Beni)', 'employer': u'The Peninsula Hotel, Beijing, China'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Management Trainee and Salary Project', 'name': u'Mung Lok Wong', 'employer': u'The Peninsula Hotel, Beijing, China'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Management Trainee and Salary Project', 'name': u'Jade Pei Jing Chung', 'employer': u'The Peninsula Hotel, Beijing, China'}
+not enough data is available on your friend
+
+user data: {'title': u'Tax Manager', 'name': u'Pauline Leow-Chan', 'employer': u'Ericsson'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Sophia Li', 'employer': u'Cornell University'}
+role: {'position': u'Postdoctoral Associate', 'range': (33000, 70000), 'samples': 385, 'mean': 42137}
+role: {'position': u'Research Associate', 'range': (36000, 78000), 'samples': 168, 'mean': 49726}
+role: {'position': u'Assistant Professor', 'range': (57000, 152000), 'samples': 115, 'mean': 96563}
+mean salary of company: 62808
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Deborah Chan', 'employer': u'Ardent Traveler and Wild Asia'}
+not enough data is available on your friend
+
+user data: {'title': u'Customer Supply Chain Intern', 'name': u'Charmain Li', 'employer': u"L'Or\xe9al Paris"}
+role: {'position': u'Intern Intern - Monthly', 'range': (15000, 17400), 'samples': 15, 'mean': 16284}
+role: {'position': u'Assistant Product Manager Intern - Monthly', 'range': (14400, 16800), 'samples': 7, 'mean': 16200}
+role: {'position': u'Marketing Intern - Monthly', 'range': (15000, 21000), 'samples': 4, 'mean': 17400}
+mean salary of company: 16628
+your friend is probably poor
+
+user data: {'title': u'Former Instructor', 'name': u'Rachel Chan', 'employer': u"Children's Technology Workshop"}
+not enough data is available on your friend
+
+user data: {'title': u'Owner', 'name': u'Tina Perrier Chan', 'employer': u'Self Employed (Business) and Travel Consultant at Travel Consultant for 30 years'}
+not enough data is available on your friend
+
+user data: {'title': u'Owner', 'name': u'Justin Cheung', 'employer': u'Self Employed (Business) and Travel Consultant at Travel Consultant for 30 years'}
+not enough data is available on your friend
+
+user data: {'title': u'Owner', 'name': u'Elizabeth Boey', 'employer': u'Self Employed (Business) and Travel Consultant at Travel Consultant for 30 years'}
+not enough data is available on your friend
+
+user data: {'title': u'Owner', 'name': u'Terence Ooi', 'employer': u'Self Employed (Business) and Travel Consultant at Travel Consultant for 30 years'}
+not enough data is available on your friend
+
+user data: {'title': u'Owner', 'name': u'Hilton Francois Hart', 'employer': u'Self Employed (Business) and Travel Consultant at Travel Consultant for 30 years'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Josephine Pettigrew', 'employer': u'Retired'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Peter Dyloco', 'employer': u'Retired'}
+not enough data is available on your friend
+
+user data: {'title': u'English Teacher', 'name': u'Xander Manshel', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'English Teacher', 'name': u'Xander Manshel', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Economics', 'name': u'Joshua Young', 'employer': u'University of California, Riverside'}
+role: {'position': u'Postdoctoral Scholar', 'range': (32000, 46000), 'samples': 74, 'mean': 37474}
+role: {'position': u'Assistant Professor', 'range': (56000, 145000), 'samples': 72, 'mean': 79533}
+role: {'position': u'Postdoctoral Employee', 'range': (35000, 51000), 'samples': 58, 'mean': 40932}
+mean salary of company: 52646
+your friend is probably doing okay
+
+user data: {'title': u'Studies Economics', 'name': u'Patricia Lim Kwan', 'employer': u'University of California, Riverside'}
+role: {'position': u'Postdoctoral Scholar', 'range': (32000, 46000), 'samples': 74, 'mean': 37474}
+role: {'position': u'Assistant Professor', 'range': (56000, 145000), 'samples': 72, 'mean': 79533}
+role: {'position': u'Postdoctoral Employee', 'range': (35000, 51000), 'samples': 58, 'mean': 40932}
+mean salary of company: 52646
+your friend is probably doing okay
+
+user data: {'title': u'Studies Economics', 'name': u'Rachel Chung', 'employer': u'University of California, Riverside'}
+role: {'position': u'Postdoctoral Scholar', 'range': (32000, 46000), 'samples': 74, 'mean': 37474}
+role: {'position': u'Assistant Professor', 'range': (56000, 145000), 'samples': 72, 'mean': 79533}
+role: {'position': u'Postdoctoral Employee', 'range': (35000, 51000), 'samples': 58, 'mean': 40932}
+mean salary of company: 52646
+your friend is probably doing okay
+
+user data: {'title': u'Studies LLB Law (Hons)', 'name': u'Bobbie Chung', 'employer': u'University of Exeter'}
+role: {'position': u'Associate Research Fellow', 'range': (25000, 28000), 'samples': 3, 'mean': 26009}
+role: {'position': u'Associate Research Fellow - Contractor', 'range': (25000, 27000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Samantha Chan', 'employer': u"Divino Wine Studio, Moxie's Classic Grill and Shenkman Arts Centre / Centre des arts Shenkman"}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Caitlin Flint', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Anh Mq', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Pallavi Saboo', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Nathan Grice', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Daniel Ng', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Joel Hai Chi', 'employer': u'Dartmouth'}
+role: {'position': u'Research Associate', 'range': (33000, 74000), 'samples': 86, 'mean': 44509}
+role: {'position': u'Research Associate B', 'range': (37000, 66000), 'samples': 47, 'mean': 45984}
+role: {'position': u'Assistant Professor', 'range': (61000, 128000), 'samples': 31, 'mean': 87895}
+mean salary of company: 59462
+your friend is probably doing okay
+
+user data: {'title': u'Social Editor', 'name': u'Florence Tsai', 'employer': u'Hong Kong Tatler'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Philip McManus', 'employer': u'BT Global Services'}
+role: {'position': u'Senior Consultant', 'range': (35000, 76000), 'samples': 7, 'mean': 60014}
+role: {'position': u'Consultant', 'range': (28000, 52000), 'samples': 7, 'mean': 36643}
+role: {'position': u'Sales Manager', 'range': (45000, 80000), 'samples': 5, 'mean': 70000}
+mean salary of company: 55552
+your friend is probably doing okay
+
+user data: {'title': u'Veterinary Assistant', 'name': u'Ivan Duong (\u694a\u9298\u8ce2)', 'employer': u'Westgate Pet Clinic'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Dana Hsu', 'employer': u'Smith College'}
+role: {'position': u'Student Assistant - Hourly', 'range': (8000, 9000), 'samples': 2, 'mean': 856}
+role: {'position': u'Student Housekeeper - Hourly', 'range': (8000, 9000), 'samples': 2, 'mean': 850}
+role: {'position': u'Teaching Assistant - Hourly', 'range': (8000, 9000), 'samples': 2, 'mean': 862}
+mean salary of company: 856
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Justin Ho', 'employer': u'Wesleyan University'}
+role: {'position': u'Graduate Student', 'range': (23000, 25000), 'samples': 3, 'mean': 24000}
+role: {'position': u'Assistant Professor, History and Letters', 'range': (61000, 63000), 'samples': 3, 'mean': 61600}
+role: {'position': u'Tour Guide - Hourly', 'range': (8000, 10000), 'samples': 2, 'mean': 927}
+mean salary of company: 28842
+your friend is probably poor
+
+user data: {'title': u'Studies Law', 'name': u'Ben Chia', 'employer': u'University of Kent'}
+role: {'position': u'Research Associate', 'range': (30000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Law', 'name': u'Ashley Chung', 'employer': u'University of Kent'}
+role: {'position': u'Research Associate', 'range': (31000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Law', 'name': u'Shanice Kok', 'employer': u'University of Kent'}
+role: {'position': u'Research Associate', 'range': (31000, 34000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Hannah Short', 'employer': u'The JUMP Foundation'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'John Hwang (\ud669\uc138\ud6c8)', 'employer': u'Harvard University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (34000, 75000), 'samples': 565, 'mean': 44584}
+role: {'position': u'Research Fellow', 'range': (37000, 75000), 'samples': 501, 'mean': 45821}
+role: {'position': u'Research Associate', 'range': (38000, 100000), 'samples': 204, 'mean': 55976}
+mean salary of company: 48793
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Mika Chops (\u8521\u5609\u5609)', 'employer': u'Harvard University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (34000, 75000), 'samples': 565, 'mean': 44584}
+role: {'position': u'Research Fellow', 'range': (37000, 75000), 'samples': 501, 'mean': 45821}
+role: {'position': u'Research Associate', 'range': (38000, 100000), 'samples': 204, 'mean': 55976}
+mean salary of company: 48793
+your friend is probably poor
+
+user data: {'title': u'Former Internship', 'name': u'Vincent Fung (\u5c01\u7ad1\u96cb)', 'employer': u'Asia Society Hong Kong Center'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Internship', 'name': u'Adrian Lau', 'employer': u'Asia Society Hong Kong Center'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'KOnberg Ngai', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Sinclair Target', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Angelina Nini Bishman (\u8c9d\u4f73\u4f73)', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Joshua Schawelson', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Ronald Wu', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Rachel Cheung', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Hannah Wu', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Chris Tsang', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Jacqueline Cheng (Goose)', 'employer': u'ARTually'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Customer Care Representative', 'name': u'Mary Ma', 'employer': u'Pure Fitness Kinwick Centre'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Barista', 'name': u'Christopher Fong (\u65b9\u5bb6\u4fca)', 'employer': u'Starbucks Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Deputy Editor', 'name': u'Yuet Ann Chan', 'employer': u'CUB Magazine'}
+not enough data is available on your friend
+
+user data: {'title': u'12B Combat Engineer', 'name': u'Josh Chen', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (45912, 67992), 'samples': 2, 'mean': 56952}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34704, 61956), 'samples': 2, 'mean': 48336}
+mean salary of company: 39760
+your friend is probably poor
+
+user data: {'title': u'12B Combat Engineer', 'name': u'Christy Gwen Lee', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (45900, 68136), 'samples': 2, 'mean': 57012}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34236, 62160), 'samples': 2, 'mean': 48192}
+mean salary of company: 39732
+your friend is probably poor
+
+user data: {'title': u'12B Combat Engineer', 'name': u'Michele Ko', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (46440, 68568), 'samples': 2, 'mean': 57504}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34860, 62712), 'samples': 2, 'mean': 48780}
+mean salary of company: 40092
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Jacqui Chen', 'employer': u'OCBC Bank'}
+role: {'position': u'Intern Intern - Monthly', 'range': (10800, 24000), 'samples': 33, 'mean': 13584}
+role: {'position': u'Assistant Vice President - Monthly', 'range': (68400, 119520), 'samples': 15, 'mean': 87264}
+role: {'position': u'Assistant Vice President', 'range': (72000, 250000), 'samples': 12, 'mean': 106718}
+mean salary of company: 69188
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Jeremy Cheng', 'employer': u'OCBC Bank'}
+role: {'position': u'Intern Intern - Monthly', 'range': (10800, 24000), 'samples': 33, 'mean': 13584}
+role: {'position': u'Assistant Vice President - Monthly', 'range': (68400, 119520), 'samples': 15, 'mean': 87264}
+role: {'position': u'Assistant Vice President', 'range': (72000, 250000), 'samples': 12, 'mean': 106718}
+mean salary of company: 69188
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Kai Lu', 'employer': u'OCBC Bank'}
+role: {'position': u'Intern Intern - Monthly', 'range': (10800, 24000), 'samples': 33, 'mean': 13584}
+role: {'position': u'Assistant Vice President - Monthly', 'range': (68400, 119520), 'samples': 15, 'mean': 87264}
+role: {'position': u'Assistant Vice President', 'range': (72000, 250000), 'samples': 12, 'mean': 106718}
+mean salary of company: 69188
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Gaby Coseteng', 'employer': u'OCBC Bank'}
+role: {'position': u'Intern Intern - Monthly', 'range': (10800, 24000), 'samples': 33, 'mean': 13584}
+role: {'position': u'Assistant Vice President - Monthly', 'range': (68400, 119520), 'samples': 15, 'mean': 87264}
+role: {'position': u'Assistant Vice President', 'range': (72000, 250000), 'samples': 12, 'mean': 106718}
+mean salary of company: 69188
+your friend is probably doing okay
+
+user data: {'title': u'Former Intern', 'name': u'Joey Lim (\u6797\u5029\u5982)', 'employer': u'Zuellig Pharma Asia Pacific'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Amanda Leung', 'employer': u'University of Notre Dame'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Heejae Lee (\uc774\ud76c\uc7ac)', 'employer': u'University of Notre Dame'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Yimini Lo', 'employer': u'University of Notre Dame'}
+not enough data is available on your friend
+
+user data: {'title': u'top dog', 'name': u'Jen Chan', 'employer': u"McDonald's"}
+role: {'position': u'Crew Member - Hourly', 'range': (6000, 12000), 'samples': 364, 'mean': 777}
+role: {'position': u'Cashier - Hourly', 'range': (5000, 10000), 'samples': 316, 'mean': 781}
+role: {'position': u'Crew Trainer - Hourly', 'range': (7000, 10000), 'samples': 101, 'mean': 812}
+mean salary of company: 790
+your friend is probably poor
+
+user data: {'title': u'top dog', 'name': u'Stephanie Cheung (\u9069\u7136)', 'employer': u"McDonald's"}
+role: {'position': u'Crew Member - Hourly', 'range': (6000, 12000), 'samples': 364, 'mean': 777}
+role: {'position': u'Cashier - Hourly', 'range': (5000, 10000), 'samples': 316, 'mean': 781}
+role: {'position': u'Crew Trainer - Hourly', 'range': (7000, 10000), 'samples': 101, 'mean': 812}
+mean salary of company: 790
+your friend is probably poor
+
+user data: {'title': u'top dog', 'name': u'Oriana Catton', 'employer': u"McDonald's"}
+role: {'position': u'Crew Member - Hourly', 'range': (6000, 12000), 'samples': 364, 'mean': 777}
+role: {'position': u'Cashier - Hourly', 'range': (5000, 10000), 'samples': 316, 'mean': 781}
+role: {'position': u'Crew Trainer - Hourly', 'range': (7000, 10000), 'samples': 101, 'mean': 812}
+mean salary of company: 790
+your friend is probably poor
+
+user data: {'title': u'Internship', 'name': u'Nicolia Ng', 'employer': u'Swire Hotels'}
+not enough data is available on your friend
+
+user data: {'title': u'Internship', 'name': u'Jennifer Ho', 'employer': u'Swire Hotels'}
+not enough data is available on your friend
+
+user data: {'title': u'System Administrator', 'name': u'Anthony Bernardo', 'employer': u'UNHCR'}
+role: {'position': u'Associate', 'range': (72000, 78000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Law', 'name': u'Deon Fang', 'employer': u'University of Oxford'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Law', 'name': u'Kolleen Ku', 'employer': u'University of Oxford'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Law', 'name': u'Nick Tie', 'employer': u'University of Oxford'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Yannick Yu', 'employer': u'PwC China/Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Boris Li', 'employer': u'PwC China/Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Florence Ip', 'employer': u'PwC China/Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'LiQing Lim', 'employer': u'PwC China/Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Model', 'name': u'Kyle Justice', 'employer': u'Abercrombie & Fitch'}
+role: {'position': u'Assistant Store Manager', 'range': (24000, 36000), 'samples': 320, 'mean': 29538}
+role: {'position': u'Store Manager', 'range': (25000, 48000), 'samples': 296, 'mean': 36403}
+role: {'position': u'Sales Associate - Hourly', 'range': (6000, 12000), 'samples': 149, 'mean': 793}
+mean salary of company: 22244
+your friend is probably poor
+
+user data: {'title': u'Studied', 'name': u'Henry', 'employer': u'New York University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (36000, 72000), 'samples': 173, 'mean': 46141}
+role: {'position': u'Assistant Research Scientist', 'range': (30000, 75000), 'samples': 156, 'mean': 46425}
+role: {'position': u'Assistant Professor', 'range': (54000, 205000), 'samples': 139, 'mean': 120526}
+mean salary of company: 71030
+your friend is probably doing okay
+
+user data: {'title': u'Studied', 'name': u'Adrian Tang', 'employer': u'New York University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (36000, 72000), 'samples': 173, 'mean': 46141}
+role: {'position': u'Assistant Research Scientist', 'range': (30000, 75000), 'samples': 156, 'mean': 46425}
+role: {'position': u'Assistant Professor', 'range': (54000, 205000), 'samples': 139, 'mean': 120526}
+mean salary of company: 71030
+your friend is probably doing okay
+
+user data: {'title': u'Studied', 'name': u'Maple Ip', 'employer': u'\uc5f0\uc138 \ub300\ud559\uad50, \uc11c\uc6b8 (Yonsei University, Seoul)'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Theater Production', 'name': u'Athena Wong', 'employer': u'Simon Fraser University'}
+role: {'position': u'Research Assistant', 'range': (10000, 45000), 'samples': 10, 'mean': 20550}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (9000, 20400), 'samples': 8, 'mean': 13368}
+role: {'position': u'Research Assistant - Hourly', 'range': (10000, 20000), 'samples': 6, 'mean': 1450}
+mean salary of company: 11789
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Hui Jun Ho', 'employer': u'National University of Singapore'}
+role: {'position': u'Research Assistant - Monthly', 'range': (30000, 40800), 'samples': 36, 'mean': 36972}
+role: {'position': u'Research Fellow - Monthly', 'range': (48000, 66000), 'samples': 26, 'mean': 55404}
+role: {'position': u'PhD Student - Monthly', 'range': (24000, 38400), 'samples': 22, 'mean': 32568}
+mean salary of company: 41648
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Grace Lee', 'employer': u'Law Association, HKUSU'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Chelsea Yeung', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Francesca Lai', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Work Experience', 'name': u'Andrew Huang (Andy)', 'employer': u'Mondrian Investment Partners Ltd'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Work Experience', 'name': u'Bernetta Li', 'employer': u'Mondrian Investment Partners Ltd'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Work Experience', 'name': u'Rachel Foo', 'employer': u'Mondrian Investment Partners Ltd'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Joyce Chan', 'employer': u'Southeast Asian Service Leadership Network (SEALNet)'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Devon Cormack', 'employer': u'Southeast Asian Service Leadership Network (SEALNet)'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Valerie Tang (Val)', 'employer': u'LSE SU Grimshaw International Relations Club and \u516c\u6c11\u9ee8 Civic Party'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Lorraine Leung', 'employer': u'LSE SU Grimshaw International Relations Club and \u516c\u6c11\u9ee8 Civic Party'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Antonia Chui', 'employer': u'LSE SU Grimshaw International Relations Club and \u516c\u6c11\u9ee8 Civic Party'}
+not enough data is available on your friend
+
+user data: {'title': u'Research Assistant', 'name': u'Cheryl Li', 'employer': u'UCLA Semel Institute for Neuroscience and Submissions Team at The Undergraduate Research Journal of Psychology at UCLA'}
+not enough data is available on your friend
+
+user data: {'title': u'Research Assistant', 'name': u'Preston Tong (Ptong)', 'employer': u'UCLA Semel Institute for Neuroscience and Submissions Team at The Undergraduate Research Journal of Psychology at UCLA'}
+not enough data is available on your friend
+
+user data: {'title': u'Research Assistant', 'name': u'Reed Harder', 'employer': u'UCLA Semel Institute for Neuroscience and Submissions Team at The Undergraduate Research Journal of Psychology at UCLA'}
+not enough data is available on your friend
+
+user data: {'title': u'Research Assistant', 'name': u'Reed Harder', 'employer': u'UCLA Semel Institute for Neuroscience and Submissions Team at The Undergraduate Research Journal of Psychology at UCLA'}
+not enough data is available on your friend
+
+user data: {'title': u'Janitor', 'name': u'Hoyan Tam', 'employer': u'Team SoloMid'}
+not enough data is available on your friend
+
+user data: {'title': u'Janitor', 'name': u'Suiwen Liang', 'employer': u'Team SoloMid'}
+not enough data is available on your friend
+
+user data: {'title': u'Janitor', 'name': u'Ashley Wong', 'employer': u'Team SoloMid'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Janice Tse', 'employer': u'Claremont McKenna College'}
+role: {'position': u'Research Assistant - Hourly', 'range': (9000, 10000), 'samples': 2, 'mean': 947}
+role: {'position': u'Assistant Professor, Biology', 'range': (68000, 77000), 'samples': 2, 'mean': 72374}
+role: {'position': u'Assistant Professor, Mathematics', 'range': (85000, 91000), 'samples': 2, 'mean': 88131}
+mean salary of company: 53817
+your friend is probably doing okay
+
+user data: {'title': u'CEO & Founder', 'name': u'Yoseph Man', 'employer': u'Beepthenose'}
+not enough data is available on your friend
+
+user data: {'title': u'CEO & Founder', 'name': u'Philip Wong', 'employer': u'Beepthenose'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Miki Williams', 'employer': u'Annette Kellerman Aquatic Centre'}
+not enough data is available on your friend
+
+user data: {'title': u'Campus Tour Guide', 'name': u'Asia Chiao', 'employer': u'Stanford Visitor Information Services and Gallery Assistant at Pace Gallery'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Sarah Zmarrou', 'employer': u'LSC Biological Lab at Dartmouth College and Broad Institute of MIT and Harvard'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Part-time-chief', 'name': u'Masanosuke Kondo', 'employer': u'The Japan Times'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Mathematics Coach', 'name': u'Josiah Cheung', 'employer': u"'A' 4 Maths Learning Centres"}
+not enough data is available on your friend
+
+user data: {'title': u'Former Sales', 'name': u'Ying Lam Chiu', 'employer': u'Catalog'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Grace Chee', 'employer': u'AIESEC'}
+not enough data is available on your friend
+
+user data: {'title': u'Student Ambassador', 'name': u'Ivan Ng', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Student Ambassador', 'name': u'Bryan Kwa', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Student Ambassador', 'name': u'Stephanie J. Smith', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'National Serviceman (Full-Time)', 'name': u'Nick Tam', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (46236, 68820), 'samples': 2, 'mean': 57528}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34356, 61836), 'samples': 2, 'mean': 48096}
+mean salary of company: 39872
+your friend is probably poor
+
+user data: {'title': u'National Serviceman (Full-Time)', 'name': u'Seamus Chiang Cheung', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (45636, 68208), 'samples': 2, 'mean': 56928}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34260, 62748), 'samples': 2, 'mean': 48504}
+mean salary of company: 39808
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Junkyu Lee (\uc774\uc900\uaddc)', 'employer': u'Republic Of Korea Marine Corps 1st Force Recon Battalion/\ud574\ubcd1 \ud2b9\uc218 \uc218\uc0c9\ub300'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Alison Ching', 'employer': u'Republic Of Korea Marine Corps 1st Force Recon Battalion/\ud574\ubcd1 \ud2b9\uc218 \uc218\uc0c9\ub300'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Andrew Kwik', 'employer': u'Republic Of Korea Marine Corps 1st Force Recon Battalion/\ud574\ubcd1 \ud2b9\uc218 \uc218\uc0c9\ub300'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Sam Son Sam', 'employer': u'Republic Of Korea Marine Corps 1st Force Recon Battalion/\ud574\ubcd1 \ud2b9\uc218 \uc218\uc0c9\ub300'}
+not enough data is available on your friend
+
+user data: {'title': u'Company Management', 'name': u'Diana Dai', 'employer': u'Williamstown Theatre Festival'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied Economics', 'name': u'Kirby Xie', 'employer': u'University of Warwick'}
+ role: {'position': u'Research Fellow', 'range': (28000, 40000), 'samples': 6, 'mean': 31533}
+role: {'position': u'PhD Student', 'range': (13000, 15000), 'samples': 3, 'mean': 14100}
+role: {'position': u'Research Fellow - Contractor', 'range': (28000, 41000), 'samples': 2, 'mean': 34931}
+mean salary of company: 26854
+your friend is probably poor
+
+user data: {'title': u'Studied Economics', 'name': u'Ryan Voon', 'employer': u'University of Warwick'}
+role: {'position': u'Research Fellow', 'range': (28000, 40000), 'samples': 6, 'mean': 31533}
+role: {'position': u'PhD Student', 'range': (13000, 15000), 'samples': 3, 'mean': 14100}
+role: {'position': u'Research Fellow - Contractor', 'range': (29000, 41000), 'samples': 2, 'mean': 34991}
+mean salary of company: 26874
+your friend is probably poor
+
+user data: {'title': u'Studied Economics', 'name': u'Ruth Tan', 'employer': u'University of Warwick'}
+role: {'position': u'Research Fellow', 'range': (28000, 40000), 'samples': 6, 'mean': 31533}
+role: {'position': u'PhD Student', 'range': (13000, 15000), 'samples': 3, 'mean': 14100}
+role: {'position': u'Research Fellow - Contractor', 'range': (28000, 41000), 'samples': 2, 'mean': 34870}
+mean salary of company: 26834
+your friend is probably poor
+
+user data: {'title': u'Studied Law and Social Sciences', 'name': u'Stephie Lam', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Shirley Yuen', 'employer': u'Mallesons Stephen Jacques'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Nick Bobolai Prower (Nick Tails Prower)', 'employer': u'Mallesons Stephen Jacques'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Nicole Wong', 'employer': u'New York University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (36000, 72000), 'samples': 173, 'mean': 46141}
+role: {'position': u'Assistant Research Scientist', 'range': (30000, 75000), 'samples': 156, 'mean': 46425}
+role: {'position': u'Assistant Professor', 'range': (54000, 205000), 'samples': 139, 'mean': 120526}
+mean salary of company: 71030
+your friend is probably doing okay
+
+user data: {'title': u'Former Member', 'name': u'Prabhsimran Singh (Prabh)', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (30000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Member', 'name': u'Michele Chu (\ubbf8\uc178)', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (30000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Member', 'name': u'Candice Kwok', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (30000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Member', 'name': u'Isabella Bersani', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (31000, 34000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Member', 'name': u'Tim Tsai', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (31000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Member', 'name': u'Lizzy Tse', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (30000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Member', 'name': u'Richard Duan', 'employer': u'SPIE'}
+role: {'position': u'Shift Technician', 'range': (31000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Economics', 'name': u'Robin Chan', 'employer': u'New York University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (36000, 72000), 'samples': 173, 'mean': 46141}
+role: {'position': u'Assistant Research Scientist', 'range': (30000, 75000), 'samples': 156, 'mean': 46425}
+role: {'position': u'Assistant Professor', 'range': (54000, 205000), 'samples': 139, 'mean': 120526}
+mean salary of company: 71030
+your friend is probably doing okay
+
+user data: {'title': u'Studies Economics', 'name': u'Jamil Sabir', 'employer': u'New York University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (36000, 72000), 'samples': 173, 'mean': 46141}
+role: {'position': u'Assistant Research Scientist', 'range': (30000, 75000), 'samples': 156, 'mean': 46425}
+role: {'position': u'Assistant Professor', 'range': (54000, 205000), 'samples': 139, 'mean': 120526}
+mean salary of company: 71030
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Jeremy Pang', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Jinyuan Liu', 'employer': u'Shenyin Wanguo Securities (H.K.) Ltd.'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Justin Tay', 'employer': u'University of Warwick'}
+role: {'position': u'Research Fellow', 'range': (28000, 40000), 'samples': 6, 'mean': 31533}
+role: {'position': u'PhD Student', 'range': (13000, 15000), 'samples': 3, 'mean': 14100}
+role: {'position': u'Research Fellow - Contractor', 'range': (28000, 42000), 'samples': 2, 'mean': 35015}
+mean salary of company: 26882
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Oscar Wang', 'employer': u'Duke University'}
+role: {'position': u'Postdoctoral Associate', 'range': (37000, 60000), 'samples': 85, 'mean': 42219}
+role: {'position': u'Research Associate', 'range': (28000, 52000), 'samples': 55, 'mean': 42458}
+role: {'position': u'Assistant Professor', 'range': (60000, 242000), 'samples': 33, 'mean': 146418}
+mean salary of company: 77031
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Farah Wan Fadzmi (Farah Leroy Wan Fadzmi)', 'employer': u'Pub Street, Siem Reap, Cambodia'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Chris Tina (Maybe Yesno)', 'employer': u'Pub Street, Siem Reap, Cambodia'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Frederick Ho (Fred)', 'employer': u'High-Performance Materials Institute'}
+role: {'position': u'Summer Engineering Intern - Monthly', 'range': (2894000, 3145000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Anna Miller', 'employer': u'Moosilauke Ravine Lodge'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Henry To', 'employer': u'Moosilauke Ravine Lodge'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Andrea Kan', 'employer': u'Moosilauke Ravine Lodge'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Darren Chong (\u838a\u667a\u6717)', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Worked', 'name': u'Boris But', 'employer': u'Lee Wolter Co Ltd'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Economics & Law', 'name': u'Deziree Thunder (\u96f7\u65af\u4e3d)', 'employer': u'University of Exeter'}
+role: {'position': u'Associate Research Fellow', 'range': (25000, 28000), 'samples': 3, 'mean': 26009}
+role: {'position': u'Associate Research Fellow - Contractor', 'range': (25000, 27000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Economics & Law', 'name': u'Elliot Shi', 'employer': u'University of Exeter'}
+role: {'position': u'Associate Research Fellow', 'range': (25000, 28000), 'samples': 3, 'mean': 26009}
+role: {'position': u'Associate Research Fellow - Contractor', 'range': (25000, 27000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Re:Room Staff', 'name': u'Amanda Chang', 'employer': u'Pitzer College and Event Manager at Pitzer College'}
+not enough data is available on your friend
+
+user data: {'title': u'Re:Room Staff', 'name': u'Joelle Au', 'employer': u'Pitzer College and Event Manager at Pitzer College'}
+not enough data is available on your friend
+
+user data: {'title': u'2nd Lieutenant', 'name': u'Brandon Joel Tan', 'employer': u'Singapore Armed Forces'}
+role: {'position': u'Third Sergeant - Monthly', 'range': (9000, 28800), 'samples': 5, 'mean': 13992}
+role: {'position': u'Officer - Monthly', 'range': (46104, 67992), 'samples': 2, 'mean': 57048}
+role: {'position': u'Platoon Sergeant - Monthly', 'range': (34740, 61848), 'samples': 2, 'mean': 48300}
+mean salary of company: 39780
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Eric Tao', 'employer': u'Kumon'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Fergus Wong', 'employer': u'Kumon'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Drama', 'name': u'Venetia Luise', 'employer': u'University of Exeter'}
+role: {'position': u'Associate Research Fellow', 'range': (25000, 28000), 'samples': 3, 'mean': 26009}
+role: {'position': u'Associate Research Fellow - Contractor', 'range': (25000, 27000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Drama', 'name': u'Jonavan Tan', 'employer': u'University of Exeter'}
+role: {'position': u'Associate Research Fellow', 'range': (25000, 28000), 'samples': 3, 'mean': 26009}
+role: {'position': u'Associate Research Fellow - Contractor', 'range': (25000, 27000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Drama', 'name': u'Jonavan Tan', 'employer': u'University of Exeter'}
+role: {'position': u'Associate Research Fellow', 'range': (25000, 28000), 'samples': 3, 'mean': 26009}
+role: {'position': u'Associate Research Fellow - Contractor', 'range': (25000, 27000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Historian', 'name': u'Will Alston (Grammateas Ton Symbasileon)', 'employer': u'Europa Barbarorum'}
+not enough data is available on your friend
+
+user data: {'title': u'Historian', 'name': u'Madeline Brown', 'employer': u'Europa Barbarorum'}
+not enough data is available on your friend
+
+user data: {'title': u'Student', 'name': u'Chris Ng (\u4f0d\u96cb\u5f65)', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Student', 'name': u'Jacob Schapero', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Student', 'name': u'Stephanie Brown', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'ParkSung Jun', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Audrey Hioe', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Hilary Wong', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Software Engineer Intern', 'name': u'Andy Kan (Man Chun Kan)', 'employer': u'Mobigator Technology Group'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Daniel Pham', 'employer': u'JHU/APL'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Wen Yee Chan', 'employer': u'JHU/APL'}
+not enough data is available on your friend
+
+user data: {'title': u'Data Dude', 'name': u'Ted Sumers', 'employer': u'Automatic'}
+role: {'position': u'Software Engineer', 'range': (77000, 83000), 'samples': 2, 'mean': 79824}
+role: {'position': u'Tech Support &amp; QA - Monthly Contractor', 'range': (2507000, 2729000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Data Dude', 'name': u'Chris Burns', 'employer': u'Automatic'}
+role: {'position': u'Software Engineer', 'range': (76000, 83000), 'samples': 2, 'mean': 79648}
+role: {'position': u'Tech Support &amp; QA - Monthly Contractor', 'range': (2498000, 2706000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Singer-songwriter', 'name': u'Celine Ng', 'employer': u'Celine Ng \u9ec3\u5b9b\u5100'}
+not enough data is available on your friend
+
+user data: {'title': u'Singer-songwriter', 'name': u'Vivienne Gao', 'employer': u'Celine Ng \u9ec3\u5b9b\u5100'}
+not enough data is available on your friend
+
+user data: {'title': u'Manager', 'name': u'Henry Huang', 'employer': u'HNIC (Head Nigga In Charge)'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Alice YonJee Hong', 'employer': u'International Model United Nations Association (IMUNA)'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Brendan Yue (\u4f59\u6d69\u8aa0)', 'employer': u'BDO International'}
+role: {'position': u'Trainee Intern - Monthly', 'range': (9575000, 10000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Janice Leung', 'employer': u'New York University Stern School of Business'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Sandy Fox', 'employer': u'New York University Stern School of Business'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Yvonne Chiu', 'employer': u'New York University Stern School of Business'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Justin Kung', 'employer': u'New York University Stern School of Business'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Henry Hsiao', 'employer': u'Mar Vivo Studio'}
+not enough data is available on your friend
+
+user data: {'title': u'Analyst', 'name': u'Steven Hartanto', 'employer': u'Cherokee Investment Partners'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Layout/Design Editor', 'name': u'Chunyin Au (\u6b50\u967d\u4fca\u8ce2)', 'employer': u'DigiLearn'}
+not enough data is available on your friend
+
+user data: {'title': u'Co-founder', 'name': u'Andrew Meier', 'employer': u'Monkey in the Middle Apps LLC'}
+not enough data is available on your friend
+
+user data: {'title': u'Co-founder', 'name': u'Oscar Suen', 'employer': u'Monkey in the Middle Apps LLC'}
+not enough data is available on your friend
+
+user data: {'title': u'Co-founder', 'name': u'Amy Tai', 'employer': u'Monkey in the Middle Apps LLC'}
+not enough data is available on your friend
+
+user data: {'title': u'Co-founder', 'name': u'Jane Lee', 'employer': u'Monkey in the Middle Apps LLC'}
+not enough data is available on your friend
+
+user data: {'title': u'Co-founder', 'name': u'Andrew Kingsley', 'employer': u'Monkey in the Middle Apps LLC'}
+not enough data is available on your friend
+
+user data: {'title': u'Employee', 'name': u'Thomas Crosbie-Walsh', 'employer': u'Orchard Towers'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Illustration', 'name': u'Michelle Lo', 'employer': u'Falmouth University'}
+role: {'position': u'Student Ambassador - Hourly', 'range': (6000, 6000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Placement Engineer (Structures)', 'name': u'Jeffers Pang', 'employer': u'Arup and Resilient Structures Laboratory at University of Warwick'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Jeremy Lin', 'employer': u'Li Po Chun United World College'}
+not enough data is available on your friend
+
+user data: {'title': u'Visiting Scholar', 'name': u'Frank Hu', 'employer': u'National University of Singapore'}
+role: {'position': u'Research Assistant - Monthly', 'range': (30000, 40800), 'samples': 36, 'mean': 36972}
+role: {'position': u'Research Fellow - Monthly', 'range': (48000, 66000), 'samples': 26, 'mean': 55404}
+role: {'position': u'PhD Student - Monthly', 'range': (24000, 38400), 'samples': 22, 'mean': 32568}
+mean salary of company: 41648
+your friend is probably poor
+
+user data: {'title': u'Former Summer Intern', 'name': u'Yi-Wei Liu', 'employer': u'Hong Kong Stock Exchange'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Kenneth Lee (\u30b1\u30cd\u30b9\u30fb\u30ea\u4e00)', 'employer': u'Georgetown University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (32000, 60000), 'samples': 117, 'mean': 43295}
+role: {'position': u'Research Associate', 'range': (35000, 62000), 'samples': 49, 'mean': 50454}
+role: {'position': u'Research Assistant II', 'range': (31000, 42000), 'samples': 44, 'mean': 35352}
+mean salary of company: 43033
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Sophia Ginsburg', 'employer': u'Georgetown University'}
+role: {'position': u'Postdoctoral Fellow', 'range': (32000, 60000), 'samples': 117, 'mean': 43295}
+role: {'position': u'Research Associate', 'range': (35000, 62000), 'samples': 49, 'mean': 50454}
+role: {'position': u'Research Assistant II', 'range': (31000, 42000), 'samples': 44, 'mean': 35352}
+mean salary of company: 43033
+your friend is probably poor
+
+user data: {'title': u'Former Student Associate Caller', 'name': u'Wajahat AK (\u05d5\u05d0\u05d8\u05d0\u05d4\u05d0\u05ea)', 'employer': u'Green Corps'}
+role: {'position': u'Field Organizer', 'range': (23000, 24000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Student Associate Caller', 'name': u'Thomson Loong', 'employer': u'Green Corps'}
+role: {'position': u'Field Organizer', 'range': (23000, 25000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Tiff Chan (\u9673\u59f5\u9716)', 'employer': u'Oxford Union'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Medicine', 'name': u'Jeffrey Ip', 'employer': u'Chinese University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (156, 252), 'samples': 8, 'mean': 195264}
+role: {'position': u'Junior Research Assistant - Monthly', 'range': (114000, 168), 'samples': 3, 'mean': 137616}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (144, 180), 'samples': 2, 'mean': 162816}
+mean salary of company: 165232
+your friend is probably doing okay
+
+user data: {'title': u'Studies Medicine', 'name': u'Connie Kang', 'employer': u'Chinese University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (156, 252), 'samples': 8, 'mean': 195264}
+role: {'position': u'Junior Research Assistant - Monthly', 'range': (114000, 168), 'samples': 3, 'mean': 137616}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (144, 168), 'samples': 2, 'mean': 161832}
+mean salary of company: 164904
+your friend is probably doing okay
+
+user data: {'title': u'Studies Medicine', 'name': u'Rachel Lai', 'employer': u'Chinese University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (156, 252), 'samples': 8, 'mean': 195264}
+role: {'position': u'Junior Research Assistant - Monthly', 'range': (114000, 168), 'samples': 3, 'mean': 137616}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (144, 168), 'samples': 2, 'mean': 160908}
+mean salary of company: 164596
+your friend is probably doing okay
+
+user data: {'title': u'Former Design Intern', 'name': u'Frances Suria', 'employer': u'Jen Kao'}
+role: {'position': u'Media Producer - Hourly', 'range': (24000, 26000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Architecture', 'name': u'Chris Li (Bear)', 'employer': u'California Polytechnic State University (Cal Poly)'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies', 'name': u'Robin Newman', 'employer': u'Imperial College London'}
+role: {'position': u'Postdoctoral Research Associate', 'range': (30000, 39000), 'samples': 23, 'mean': 34202}
+role: {'position': u'PhD Student', 'range': (15000, 21000), 'samples': 18, 'mean': 16893}
+role: {'position': u'PhD Student - Monthly', 'range': (13200, 23400), 'samples': 13, 'mean': 16860}
+mean salary of company: 22651
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Justin Cheng', 'employer': u'Imperial College London'}
+role: {'position': u'Postdoctoral Research Associate', 'range': (30000, 39000), 'samples': 23, 'mean': 34202}
+role: {'position': u'PhD Student', 'range': (15000, 21000), 'samples': 18, 'mean': 16893}
+role: {'position': u'PhD Student - Monthly', 'range': (13200, 23400), 'samples': 13, 'mean': 16860}
+mean salary of company: 22651
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'The SC', 'employer': u'Imperial College London'}
+role: {'position': u'Postdoctoral Research Associate', 'range': (30000, 39000), 'samples': 23, 'mean': 34202}
+role: {'position': u'PhD Student', 'range': (15000, 21000), 'samples': 18, 'mean': 16893}
+role: {'position': u'PhD Student - Monthly', 'range': (13200, 23400), 'samples': 13, 'mean': 16860}
+mean salary of company: 22651
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'John Yap', 'employer': u'Imperial College London'}
+role: {'position': u'Postdoctoral Research Associate', 'range': (30000, 39000), 'samples': 23, 'mean': 34202}
+role: {'position': u'PhD Student', 'range': (15000, 21000), 'samples': 18, 'mean': 16893}
+role: {'position': u'PhD Student - Monthly', 'range': (13200, 23400), 'samples': 13, 'mean': 16860}
+mean salary of company: 22651
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Boris Lee', 'employer': u'Imperial College London'}
+role: {'position': u'Postdoctoral Research Associate', 'range': (30000, 39000), 'samples': 23, 'mean': 34202}
+role: {'position': u'PhD Student', 'range': (15000, 21000), 'samples': 18, 'mean': 16893}
+role: {'position': u'PhD Student - Monthly', 'range': (13200, 23400), 'samples': 13, 'mean': 16860}
+mean salary of company: 22651
+your friend is probably poor
+
+user data: {'title': u'Studied', 'name': u'Louisa Lee', 'employer': u'Bard MAT'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Max Or', 'employer': u'The University of Edinburgh'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Joy Pettigrew', 'employer': u'Wheaton College Alumni Relations'}
+not enough data is available on your friend
+
+user data: {'title': u'Intern', 'name': u'Alan Ebenezer Karkada', 'employer': u'Mediterranean Shipping Company'}
+role: {'position': u'Claims and Contracts Analyst', 'range': (28000, 52000), 'samples': 34, 'mean': 35223}
+role: {'position': u'Export Documentation Analyst', 'range': (26000, 56000), 'samples': 19, 'mean': 34510}
+role: {'position': u'Marketing and Business Development Analyst', 'range': (27000, 51000), 'samples': 17, 'mean': 38064}
+mean salary of company: 35932
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Jenna Liang', 'employer': u'International House of Prayer'}
+role: {'position': u'Missionary', 'range': (38000, 42000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Jon Pettigrew', 'employer': u'The Vine Church'}
+not enough data is available on your friend
+
+user data: {'title': u'Everflow Music Director and Generational Associate', 'name': u'Josh Pettigrew', 'employer': u'ICA - International Christian Assembly, Hong Kong'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Staff Photographer', 'name': u'Hannah Chin', 'employer': u'The Michigan Daily'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Staff Photographer', 'name': u'Clio Marden', 'employer': u'The Michigan Daily'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Teaching Assistant', 'name': u'Aileen Ng', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Teaching Assistant', 'name': u'Erin Au', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Teaching Assistant', 'name': u'Ivanne Cheng', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Teaching Assistant', 'name': u'Joe Hwong Pang', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Teaching Assistant', 'name': u'Maxibillion Goh', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Teaching Assistant', 'name': u'Aaron Wong', 'employer': u'International Christian School'}
+role: {'position': u'Teacher', 'range': (17000, 30000), 'samples': 8, 'mean': 25864}
+role: {'position': u'Teacher - Hourly', 'range': (15000, 17000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Kay Yan Lu (Lulu)', 'employer': u'Flynn Picture Company'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Gerald Cheng', 'employer': u'USFA'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'James Pho', 'employer': u'USFA'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Stanton Ho', 'employer': u"Diocesan Boys' School"}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Medicine', 'name': u'Derek Chan', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Studies Medicine', 'name': u'Dan Iel Hoh', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Studies Medicine', 'name': u'Louise Lui', 'employer': u'University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (60000, 204), 'samples': 7, 'mean': 149712}
+role: {'position': u'PhD Student - Monthly', 'range': (156, 168), 'samples': 7, 'mean': 164772}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (156, 216), 'samples': 3, 'mean': 180000}
+mean salary of company: 164828
+your friend is probably doing okay
+
+user data: {'title': u'Studies Bachelor of Medicine, Bachelor of Surgery', 'name': u'Kelvin Cheung', 'employer': u'The University Of Hong Kong (HKU)'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Bachelor of Medicine, Bachelor of Surgery', 'name': u'Edwin Lam', 'employer': u'The University Of Hong Kong (HKU)'}
+not enough data is available on your friend
+
+user data: {'title': u'SDET Intern', 'name': u'Jonathan Leung (\u6881\u656c\u5f65)', 'employer': u'Microsoft'}
+role: {'position': u'Software Development Engineer In Test (SDET)', 'range': (71000, 122000), 'samples': 7762, 'mean': 88133}
+role: {'position': u'Software Development Engineer', 'range': (70000, 140000), 'samples': 6672, 'mean': 94261}
+role: {'position': u'Program Manager', 'range': (70000, 150000), 'samples': 2086, 'mean': 95225}
+mean salary of company: 92539
+your friend is probably doing okay
+
+user data: {'title': u'Studies', 'name': u'Jesse Phair', 'employer': u'POLIMODA'}
+not enough data is available on your friend
+
+user data: {'title': u'Devoted Fan', 'name': u'Elissa Rosati', 'employer': u'Nicolas Cage - One True God and Founder/Artistic Director at FOCUS ON FILM'}
+not enough data is available on your friend
+
+user data: {'title': u'Devoted Fan', 'name': u'Hannah Cheung (\u91ce\u6fa4\u6afb\u5b50)', 'employer': u'Nicolas Cage - One True God and Founder/Artistic Director at FOCUS ON FILM'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Janella Ang', 'employer': u'MediaCorp'}
+role: {'position': u'Senior Manager', 'range': (64000, 100000), 'samples': 3, 'mean': 77667}
+role: {'position': u'Producer - Monthly', 'range': (32400, 37200), 'samples': 3, 'mean': 35400}
+role: {'position': u'Manager - Monthly', 'range': (45600, 58800), 'samples': 3, 'mean': 53196}
+mean salary of company: 55421
+your friend is probably doing okay
+
+user data: {'title': u'Works', 'name': u'Chloe Wongster', 'employer': u'Abercrombie & Fitch'}
+role: {'position': u'Assistant Store Manager', 'range': (24000, 36000), 'samples': 320, 'mean': 29538}
+role: {'position': u'Store Manager', 'range': (25000, 48000), 'samples': 296, 'mean': 36403}
+role: {'position': u'Sales Associate - Hourly', 'range': (6000, 12000), 'samples': 149, 'mean': 793}
+mean salary of company: 22244
+your friend is probably poor
+
+user data: {'title': u'Studies', 'name': u'Christy Chan', 'employer': u'Chinese University of Hong Kong'}
+role: {'position': u'Research Assistant - Monthly', 'range': (156, 252), 'samples': 8, 'mean': 195264}
+role: {'position': u'Junior Research Assistant - Monthly', 'range': (114000, 168), 'samples': 3, 'mean': 137616}
+role: {'position': u'Teaching Assistant - Monthly', 'range': (144, 168), 'samples': 2, 'mean': 161016}
+mean salary of company: 164632
+your friend is probably doing okay
+
+user data: {'title': u'Studies', 'name': u'Anna Edwards', 'employer': u'School of Oriental and African Studies'}
+not enough data is available on your friend
+
+user data: {'title': u'Photographer', 'name': u'Frank Tsang', 'employer': u'Frank Tsang Photography'}
+not enough data is available on your friend
+
+user data: {'title': u'Head Donut and Coffee Taster', 'name': u'James Chen', 'employer': u"Dunkin' Donuts"}
+role: {'position': u'Crew Member - Hourly', 'range': (7000, 10000), 'samples': 77, 'mean': 795}
+role: {'position': u'Cashier - Hourly', 'range': (7000, 10000), 'samples': 60, 'mean': 806}
+role: {'position': u'Shift Leader - Hourly', 'range': (7000, 10000), 'samples': 20, 'mean': 848}
+mean salary of company: 816
+your friend is probably poor
+
+user data: {'title': u'Head Donut and Coffee Taster', 'name': u'Milos Janjusevic', 'employer': u"Dunkin' Donuts"}
+role: {'position': u'Crew Member - Hourly', 'range': (7000, 10000), 'samples': 77, 'mean': 795}
+role: {'position': u'Cashier - Hourly', 'range': (7000, 10000), 'samples': 60, 'mean': 806}
+role: {'position': u'Shift Leader - Hourly', 'range': (7000, 10000), 'samples': 20, 'mean': 848}
+mean salary of company: 816
+your friend is probably poor
+
+user data: {'title': u'Head Donut and Coffee Taster', 'name': u'Aaron Ng (JurKwan)', 'employer': u"Dunkin' Donuts"}
+role: {'position': u'Crew Member - Hourly', 'range': (7000, 10000), 'samples': 77, 'mean': 795}
+role: {'position': u'Cashier - Hourly', 'range': (7000, 10000), 'samples': 60, 'mean': 806}
+role: {'position': u'Shift Leader - Hourly', 'range': (7000, 10000), 'samples': 20, 'mean': 848}
+mean salary of company: 816
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Mark Hayes', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Kiki Elijandy', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Studies Computer Science', 'name': u'Aaron Kwok', 'employer': u'The University of Nottingham'}
+role: {'position': u'PhD Student', 'range': (8400000, 16000), 'samples': 7, 'mean': 12101}
+role: {'position': u'Research Fellow', 'range': (30000, 31000), 'samples': 3, 'mean': 30207}
+role: {'position': u'PhD Researcher', 'range': (14000, 17000), 'samples': 2, 'mean': 15538}
+mean salary of company: 19282
+your friend is probably poor
+
+user data: {'title': u'Studies Computer Science', 'name': u'Sheryl Cheng', 'employer': u'The University of Nottingham'}
+role: {'position': u'PhD Student', 'range': (8400000, 16000), 'samples': 7, 'mean': 12101}
+role: {'position': u'Research Fellow', 'range': (30000, 31000), 'samples': 3, 'mean': 30207}
+role: {'position': u'PhD Researcher', 'range': (14000, 16000), 'samples': 2, 'mean': 15464}
+mean salary of company: 19257
+your friend is probably poor
+
+user data: {'title': u'Studies Computer Science', 'name': u'Ng Xuanru', 'employer': u'The University of Nottingham'}
+role: {'position': u'PhD Student', 'range': (8400000, 16000), 'samples': 7, 'mean': 12101}
+role: {'position': u'Research Fellow', 'range': (30000, 31000), 'samples': 3, 'mean': 30207}
+role: {'position': u'PhD Researcher', 'range': (14000, 17000), 'samples': 2, 'mean': 15459}
+mean salary of company: 19255
+your friend is probably poor
+
+user data: {'title': u'Studies Computer Science', 'name': u'Clarice Yip', 'employer': u'The University of Nottingham'}
+role: {'position': u'PhD Student', 'range': (8400000, 16000), 'samples': 7, 'mean': 12101}
+role: {'position': u'Research Fellow', 'range': (30000, 31000), 'samples': 3, 'mean': 30207}
+role: {'position': u'PhD Researcher', 'range': (14000, 16000), 'samples': 2, 'mean': 15452}
+mean salary of company: 19253
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Bea Danielle Lincon', 'employer': u'Island Youth'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Tsz Yan Tam', 'employer': u'Island Youth'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Tsz Yan Tam', 'employer': u'Island Youth'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Ting So', 'employer': u'Island Youth'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Dominic Mo', 'employer': u'Island Youth'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'George Geicke', 'employer': u'Gerkan, Marg and Partners'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Peter Sin', 'employer': u'Gerkan, Marg and Partners'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Kimmi Tam (Kimberleigh)', 'employer': u'Gerkan, Marg and Partners'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Nicole Yi Ling Foo', 'employer': u'Gerkan, Marg and Partners'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Madhav Menon', 'employer': u'South Island School'}
+not enough data is available on your friend
+
+user data: {'title': u'Studied', 'name': u'Jona Amour', 'employer': u'Lake Forest College'}
+role: {'position': u'Programmer Analyst', 'range': (50000, 60000), 'samples': 2, 'mean': 55055}
+role: {'position': u'Lecturer In Music - Hourly', 'range': (43000, 47000), 'samples': 2, 'mean': 4484}
+role: {'position': u'Student Work-study - Hourly', 'range': (8000, 8000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Founder', 'name': u'Marcus Yau', 'employer': u'Marcus |Art|'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Louis De Tilly', 'employer': u"Louis's Grooves and Sam's Jams"}
+not enough data is available on your friend
+
+user data: {'title': u'Teaching Intern', 'name': u'Wayne Lee', 'employer': u'Emerson Ralph Waldo Junior High School'}
+not enough data is available on your friend
+
+user data: {'title': u'Teaching Intern', 'name': u'Robert Hurst', 'employer': u'Emerson Ralph Waldo Junior High School'}
+not enough data is available on your friend
+
+user data: {'title': u'Teaching Intern', 'name': u'Adelaide Chan', 'employer': u'Emerson Ralph Waldo Junior High School'}
+not enough data is available on your friend
+
+user data: {'title': u'Teaching Intern', 'name': u'Ryan Chu', 'employer': u'Emerson Ralph Waldo Junior High School'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Co-Founder', 'name': u'Jason Wong (\u9ec3\u5065\u88d5)', 'employer': u'Spark Debating'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Co-Founder', 'name': u'Kristina Li', 'employer': u'Spark Debating'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Co-Founder', 'name': u'Michelle Chin', 'employer': u'Spark Debating'}
+not enough data is available on your friend
+
+user data: {'title': u'Graphic Designer', 'name': u'Justice Pettigrew (\u767d\u601d\u4e49)', 'employer': u'Norris Center'}
+not enough data is available on your friend
+
+user data: {'title': u'Graphic Designer', 'name': u'Ryan Ho', 'employer': u'Norris Center'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Nicole Cheng', 'employer': u'Rhode Island School of Design'}
+role: {'position': u'Adjunct Professor - Hourly', 'range': (38000, 142000), 'samples': 7, 'mean': 11246}
+role: {'position': u'Instructor - Hourly', 'range': (50000, 89000), 'samples': 5, 'mean': 7898}
+role: {'position': u'Workstudy - Hourly', 'range': (8000, 9000), 'samples': 2, 'mean': 887}
+mean salary of company: 6677
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Austin Lee', 'employer': u'Rhode Island School of Design'}
+role: {'position': u'Adjunct Professor - Hourly', 'range': (38000, 142000), 'samples': 7, 'mean': 11246}
+role: {'position': u'Instructor - Hourly', 'range': (50000, 89000), 'samples': 5, 'mean': 7898}
+role: {'position': u'Workstudy - Hourly', 'range': (9000, 9000), 'samples': 2, 'mean': 898}
+mean salary of company: 6680
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Brandon Kong (Omicron Kong)', 'employer': u'Rhode Island School of Design'}
+role: {'position': u'Adjunct Professor - Hourly', 'range': (38000, 142000), 'samples': 7, 'mean': 11246}
+role: {'position': u'Instructor - Hourly', 'range': (50000, 89000), 'samples': 5, 'mean': 7898}
+role: {'position': u'Workstudy - Hourly', 'range': (9000, 9000), 'samples': 2, 'mean': 895}
+mean salary of company: 6679
+your friend is probably poor
+
+user data: {'title': u'Worked', 'name': u'Rissa Ho', 'employer': u'Rhode Island School of Design'}
+role: {'position': u'Adjunct Professor - Hourly', 'range': (38000, 142000), 'samples': 7, 'mean': 11246}
+role: {'position': u'Instructor - Hourly', 'range': (50000, 89000), 'samples': 5, 'mean': 7898}
+role: {'position': u'Workstudy - Hourly', 'range': (9000, 9000), 'samples': 2, 'mean': 891}
+mean salary of company: 6678
+your friend is probably poor
+
+user data: {'title': u'Actuarial & Finance Intern', 'name': u'Dominic Chiu (\u8d99\u500d\u8070)', 'employer': u'Prudential plc'}
+role: {'position': u'Actuary', 'range': (32000, 70000), 'samples': 3, 'mean': 47333}
+role: {'position': u'Operations Manager', 'range': (48000, 62000), 'samples': 2, 'mean': 54848}
+role: {'position': u'Technical Team Manager', 'range': (44000, 51000), 'samples': 2, 'mean': 47294}
+mean salary of company: 49825
+your friend is probably poor
+
+user data: {'title': u'Actuarial & Finance Intern', 'name': u'Nelson Wong', 'employer': u'Prudential plc'}
+role: {'position': u'Actuary', 'range': (32000, 70000), 'samples': 3, 'mean': 47333}
+role: {'position': u'Operations Manager', 'range': (48000, 62000), 'samples': 2, 'mean': 55002}
+role: {'position': u'Technical Team Manager', 'range': (44000, 50000), 'samples': 2, 'mean': 47034}
+mean salary of company: 49789
+your friend is probably poor
+
+user data: {'title': u'Actuarial & Finance Intern', 'name': u'Chelsea Valerie Clements', 'employer': u'Prudential plc'}
+role: {'position': u'Actuary', 'range': (32000, 70000), 'samples': 3, 'mean': 47333}
+role: {'position': u'Operations Manager', 'range': (48000, 62000), 'samples': 2, 'mean': 55091}
+role: {'position': u'Technical Team Manager', 'range': (45000, 50000), 'samples': 2, 'mean': 47428}
+mean salary of company: 49950
+your friend is probably poor
+
+user data: {'title': u'Actuarial & Finance Intern', 'name': u'Irving Teng', 'employer': u'Prudential plc'}
+role: {'position': u'Actuary', 'range': (32000, 70000), 'samples': 3, 'mean': 47333}
+role: {'position': u'Operations Manager', 'range': (48000, 62000), 'samples': 2, 'mean': 55023}
+role: {'position': u'Technical Team Manager', 'range': (44000, 50000), 'samples': 2, 'mean': 47227}
+mean salary of company: 49861
+your friend is probably poor
+
+user data: {'title': u'Works', 'name': u'Sabrina Chan', 'employer': u'Models International Management'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Justin Lee', 'employer': u'Models International Management'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Justin Lee', 'employer': u'Models International Management'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Madeleine Matsui', 'employer': u'Models International Management'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Jason Hoh', 'employer': u'Models International Management'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Jason Hoh', 'employer': u'Models International Management'}
+not enough data is available on your friend
+
+user data: {'title': u"PE Teacher, World's Greatest Girl's Rugby Coach", 'name': u'Simon Watts', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u"PE Teacher, World's Greatest Girl's Rugby Coach", 'name': u'Ryan Wu', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Former Intern', 'name': u'Jason Tang', 'employer': u'Qualicom'}
+role: {'position': u'Residential Draftsman', 'range': (31000, 33000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'University Counsellor', 'name': u'Sow Fun Pit Dawson', 'employer': u'Chinese International School'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Rui Zhang', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Nicholas Cai', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Works', 'name': u'Nicholas Cai', 'employer': u'Dartmouth College'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Rebecca Guo', 'employer': u'Guosen Securities'}
+role: {'position': u'Analyst - Monthly', 'range': (51435743000, 51436275000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Justin Chan', 'employer': u'Guosen Securities'}
+role: {'position': u'Analyst - Monthly', 'range': (51435772000, 51436214000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Ryan RM', 'employer': u'Guosen Securities'}
+role: {'position': u'Analyst - Monthly', 'range': (51435780000, 51436288000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Anna Ginsburg', 'employer': u'Guosen Securities'}
+role: {'position': u'Analyst - Monthly', 'range': (51435818000, 51436215000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
+
+user data: {'title': u'Worked', 'name': u'Mir Jetha', 'employer': u'Guosen Securities'}
+role: {'position': u'Analyst - Monthly', 'range': (51435718000, 51436230000), 'samples': 1, 'mean': 'n/a'}
+not enough data is available on your friend
