@@ -13,8 +13,8 @@
     // for FB.getLoginStatus().
     if (response.status === 'connected') {
       // Logged into your app and Facebook.
-      testAPI();
-    } else if (response.status === 'not_authorized') {
+      allowUserToAnalyzeFriends();
+      } else if (response.status === 'not_authorized') {
       // The person is logged into Facebook, but not your app.
       document.getElementById('status').innerHTML = 'Please log ' +
         'into this app.';
@@ -24,6 +24,18 @@
       document.getElementById('status').innerHTML = 'Please log ' +
         'into Facebook.';
     }
+  }
+
+  function allowUserToAnalyzeFriends() {
+    var analyzeFriendsButton = document.createElement("input");
+      analyzeFriendsButton.type = "button";
+      analyzeFriendsButton.value = "analyze friends!"
+      analyzeFriendsButton.onclick = function() {
+        console.log("hi!");
+      };
+      
+      document.getElementsByClassName("container")[1].appendChild(document.createElement("br"));
+      document.getElementsByClassName("container")[1].appendChild(analyzeFriendsButton);
   }
 
   // This function is called when someone finishes with the Login
